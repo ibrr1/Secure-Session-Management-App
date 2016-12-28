@@ -5,7 +5,7 @@ Contents of This File
  * Requirements and Installation
  * Setting The Application
  * Using The Application
- * Accessing The Admin Page:
+ * Accessing The Admin Page
  * Maintenance 
 
 
